@@ -16,6 +16,7 @@ class RestaurantsController < ApplicationController
 
   # GET /restaurants/1
   def show
+
   end
 
   # GET /restaurants/new
